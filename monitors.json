@@ -7,7 +7,7 @@
   },
    {
     "name": "Data Bucket • cdn.soko.lol",
-    "url": "https://cdn.soko.lol/status.yml",
+    "url": "https://cdn.soko.lol/status.json",
     "expectedStatus": 200,
     "timeout": 5000
   }
