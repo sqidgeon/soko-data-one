@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Bio • soko.lol",
+    "url": "https://soko.lol",
+    "expectedStatus": 200,
+    "timeout": 5000
+  }
+]
