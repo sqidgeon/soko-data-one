@@ -1,1 +1,14 @@
-
+[
+  {
+    "id": "Template",
+    "title": "Template",
+    "description": "Template",
+    "start": "2026-06-21T02:00:00Z",
+    "ongoing": true,
+    "resolved": false,
+    "affected": ["Bio • soko.lol"],
+    "icon": "cog",
+    "color": "",
+    "url": "https://github.com/sqidgeon/soko-data-one/blob/main/incidents/inc-002.md"
+  }
+]
