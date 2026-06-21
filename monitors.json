@@ -1,7 +1,7 @@
 [
   {
     "name": "Bio • soko.lol",
-    "url": "https://soko.lol",
+    "url": "https://soko.lol/status.yml",
     "expectedStatus": 200,
     "timeout": 5000
   }
