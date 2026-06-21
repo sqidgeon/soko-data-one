@@ -4,11 +4,5 @@
     "url": "https://soko.lol/status.yml",
     "expectedStatus": 200,
     "timeout": 5000
-  },
-  {
-    "name": "Data Bucket • cdn.soko.lol",
-    "url": "https://cdn.soko.lol/status.yml",
-    "expectedStatus": 200,
-    "timeout": 5000
   }
 ]
